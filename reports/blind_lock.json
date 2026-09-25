@@ -1,0 +1,9 @@
+{
+  "sha256": "ee33633e4394404262d495043837ff86b5f634d4374612447fac4ccbcf27e130",
+  "locked_at_utc": "2026-09-25T04:53:08.976701+00:00",
+  "revision_note": "Corrected scan after initial lock; original lock retained below.",
+  "previous_lock": {
+    "sha256": "71ec25f5eb4bb4efd43e1d8efbc4ed671b37fbdc0d52711ca1cef7cd0590a977",
+    "locked_at_utc": "2026-09-25T03:29:52.773150+00:00"
+  }
+}
